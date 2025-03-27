@@ -1,1 +1,1 @@
-proposta pedagógica com robótica educacional para trabalhar com crianças e adolescentes no dia 18 de Maio – Dia Nacional de Combate ao Abuso e Exploração Sexual de Crianças e Adolescentes, fortalecendo a Campanha “Faça Bonito. Proteja nossas Crianças”.
+Proposta pedagógica com robótica educacional para trabalhar com crianças e adolescentes no dia 18 de Maio – Dia Nacional de Combate ao Abuso e Exploração Sexual de Crianças e Adolescentes, fortalecendo a Campanha “Faça Bonito. Proteja nossas Crianças”.
