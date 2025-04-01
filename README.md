@@ -17,6 +17,7 @@ O **Semáforo de Toque** foi desenvolvido para auxiliar professores na aplicaç�
 🔹 **Guia de instalação:** [Acesse aqui](docs/Guia_Instalacao.pdf)  
 🔹 **Explicação do kit:** [Saiba mais](docs/Explicacao_Kit.pdf)  
 
+Ele foi desenvolvido com o Scratch, mas é possível baixá-lo no computador e utilizar o Pictoblox o qual é uma ferramenta a qual não é necessário o uso de internet
 ---
 
 ## 🚀 Como Começar
