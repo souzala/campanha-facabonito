@@ -43,11 +43,11 @@ Depois, extraia o arquivo no seu computador.
 
 ## 🔌 Esquema de Montagem  
 
-Para montar o circuito corretamente, siga o diagrama abaixo:  
+Para montar o circuito corretamente, siga o esquemático do Tinkercad: 
+![Esquema do Circuito](https://github.com/user-attachments/assets/8c26f8ab-469d-4e7f-a1f7-f11920b2cf13)
 
-![Esquema do Circuito](diagramas/esquema_fritzing.png)  
-
-📁 Arquivo editável no Fritzing disponível [aqui](diagramas/esquema_fritzing.fzz).  
+📁 Arquivo editável no Tinkercad disponível [aqui]([diagramas/esquema_fritzing.fzz](https://www.tinkercad.com/things/8RZVnZijdXk-blocos-basico-projeto-final-ura-semaforo-do-toque/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=EfCjQ7wGkWV9qOgfhJBTSa1cPoLGCROROw2fKsu0JTg)).  
+Nele é possível acompanhar o código desenvolvido.
 
 ---
 
