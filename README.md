@@ -1,5 +1,9 @@
-# 🛠️ Proposta pedagógica com robótica educacional para trabalhar com crianças e adolescentes no dia 18 de Maio – Dia Nacional de Combate ao Abuso e Exploração Sexual de Crianças e Adolescentes, fortalecendo a Campanha “Faça Bonito. Proteja nossas Crianças”.
+# 🛠️ Proposta pedagógica com robótica educacional para o 18 de Maio – Dia Nacional de Combate ao Abuso e Exploração Sexual de Crianças e Adolescentes, fortalecendo a Campanha “Faça Bonito. Proteja nossas Crianças”.
 
+
+ Proposta pedagógica com robótica educacional para trabalhar com crianças e adolescentes no dia 18 de Maio – Dia Nacional de Combate ao Abuso e Exploração Sexual de Crianças e Adolescentes, fortalecendo a Campanha “Faça Bonito. Proteja nossas Crianças”. 
+
+ 
 Este repositório contém os arquivos do **Semáforo de Toque** apresentado no artigo submetido ao CROS 2025. O objetivo é facilitar a replicação do projeto por professores e entusiastas da educação tecnológica.  
 
 📌 **Aqui você encontrará:**  
