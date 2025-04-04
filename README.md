@@ -27,6 +27,8 @@ Para montar o circuito corretamente, siga o esquemático disponível no Tinkerca
 
 ![Esquema do Circuito](https://github.com/user-attachments/assets/8c26f8ab-469d-4e7f-a1f7-f11920b2cf13)  
 
+🔧 Pensando na acessibilidade, o projeto foi desenvolvido com programação tanto em blocos quanto em texto. Dessa forma, atende tanto professores que não possuem familiaridade com programação, mas ainda assim conseguem aplicar o projeto com sucesso, quanto aqueles que já possuem experiência na área.
+
 📁 **Programação em Blocos** – [Acesse aqui](https://www.tinkercad.com/things/8RZVnZijdXk-blocos-basico-projeto-final-ura-semaforo-do-toque/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=EfCjQ7wGkWV9qOgfhJBTSa1cPoLGCROROw2fKsu0JTg)  
 
 📁 **Programação em Texto** – [Acesse aqui](https://www.tinkercad.com/things/4gfwM7ftskc-basico-projeto-final-ura-semaforo-do-toque/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=8-ALyroNSx9lAATll4t7Cde4-L9419d2_W9D79sJNXk)  
