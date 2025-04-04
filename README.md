@@ -24,6 +24,7 @@ Também foi desenvolvido um recurso no **Scratch**, considerando a realidade das
 ## 🧱 Esquemático no Tinkercad  
 
 Para montar o circuito corretamente, siga o esquemático disponível no Tinkercad:  
+
 ![Esquema do Circuito](https://github.com/user-attachments/assets/8c26f8ab-469d-4e7f-a1f7-f11920b2cf13)  
 
 📁 **Programação em Blocos** – [Acesse aqui](https://www.tinkercad.com/things/8RZVnZijdXk-blocos-basico-projeto-final-ura-semaforo-do-toque/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=EfCjQ7wGkWV9qOgfhJBTSa1cPoLGCROROw2fKsu0JTg)  
@@ -53,7 +54,7 @@ Para montar o circuito corretamente, siga o esquemático disponível no Tinkerca
 
 ## 📢 Contribuição  
 Sinta-se à vontade para contribuir com o projeto!  
-Se encontrar algum problema ou tiver sugestões,entre em contato atraves do email: larissa.souza.119@ufrn.edu.br
+Se encontrar algum problema ou tiver sugestões, entre em contato através do 📧 email: larissa.souza.119@ufrn.edu.br
 
 
 ## 👩‍💻 Desenvolvido por:
