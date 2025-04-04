@@ -51,5 +51,10 @@ Nele é possível acompanhar o código desenvolvido.
 
 ---
 
-## 📂 Estrutura do Repositório  
+## 📂 Plano de Aula
+[Campanha Faça Bonito_Semáforo do Toque.pdf](https://github.com/user-attachments/files/19597098/Campanha.Faca.Bonito_Semaforo.do.Toque.1.docx.pdf)
+
+
+
+
 
