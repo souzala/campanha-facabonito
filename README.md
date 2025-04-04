@@ -1,5 +1,5 @@
-# 🤖 Proposta Pedagógica com Robótica Educacional – 18 de Maio  
-### 📢 Dia Nacional de Combate ao Abuso e Exploração Sexual de Crianças e Adolescentes  
+# 🤖 Proposta Pedagógica com Robótica Educacional – Campanha #FaçaBonito
+### 📢 18 de Maio - Dia Nacional de Combate ao Abuso e Exploração Sexual de Crianças e Adolescentes  
 
 Este repositório contém os arquivos do **Semáforo de Toque**, apresentado no artigo submetido ao **CROS 2025**.  
 O objetivo é disponibilizar esse recurso para que professores e entusiastas da educação tecnológica possam **replicar e aplicar** o projeto em suas atividades pedagógicas.  
