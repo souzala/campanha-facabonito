@@ -18,25 +18,7 @@ O objetivo é disponibilizar esse recurso para que professores e entusiastas da 
 
 O **Semáforo de Toque** foi desenvolvido para **ensinar sobre consentimento e toques seguros** de forma interativa, utilizando **robótica educacional**. O projeto combina sensores e atuadores com um **semáforo**, ajudando os alunos a compreenderem **quando um toque é permitido, não permitido ou requer atenção**.  
 
-A programação foi desenvolvida inicialmente no **Scratch**, mas pode ser executada offline no **PictoBlox**, ferramenta que dispensa o uso de internet.  
-
----
-
-## 🚀 Como Começar  
-
-### 1️⃣ Instalar a Arduino IDE  
-Para programar o Arduino, instale a **Arduino IDE** no seu computador.  
-🔹 [Baixe aqui](https://www.arduino.cc/en/software)  
-
-### 2️⃣ Baixar este repositório  
-Clique no botão verde **`Code`** e selecione **`Download ZIP`**.  
-Depois, extraia os arquivos no seu computador.  
-
-### 3️⃣ Abrir e carregar o código no Arduino  
-1. Abra a **Arduino IDE**  
-2. Vá em **Arquivo > Abrir** e selecione **`main.ino`** dentro da pasta `codigo/`  
-3. Conecte a placa ao computador e clique em **Upload** para enviar o código  
-
+Também foi desenvolvido um recurso no **Scratch**, considerando a realidade das escolas que não possuem um kit de Arduino. Ele pode ser utilizado em um computador ou tablet e também pode ser executado offline por meio do **PictoBlox**.
 ---
 
 ## 🧱 Esquemático no Tinkercad  
@@ -71,11 +53,10 @@ Para montar o circuito corretamente, siga o esquemático disponível no Tinkerca
 
 ## 📢 Contribuição  
 Sinta-se à vontade para contribuir com o projeto!  
-Se encontrar algum problema ou tiver sugestões, **abra uma issue** ou **faça um pull request**.  
-
-🛠 **Feito com dedicação para fortalecer a campanha “Faça Bonito. Proteja nossas Crianças.”**  
+Se encontrar algum problema ou tiver sugestões,entre em contato atraves do email: larissa.souza.119@ufrn.edu.br
 
 
-
-
+## 👩‍💻 Desenvolvido por:
+**Larissa Souza** - Mestranda na área de Robótica Educacional pela UFRN 
+**Cláudia Juliette** - Doutoranda em Educaçãona na área de Robótica Educacional pela UFRN 
 
