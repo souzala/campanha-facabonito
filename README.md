@@ -17,8 +17,8 @@ O objetivo é disponibilizar esse recurso para que professores e entusiastas da 
 ## 📖 Sobre o Projeto  
 
 O **Semáforo de Toque** foi desenvolvido para **ensinar sobre consentimento e toques seguros** de forma interativa, utilizando **robótica educacional**. O projeto combina sensores e atuadores com um **semáforo**, ajudando os alunos a compreenderem **quando um toque é permitido, não permitido ou requer atenção**.  
-
 Também foi desenvolvido um recurso no **Scratch**, considerando a realidade das escolas que não possuem um kit de Arduino. Ele pode ser utilizado em um computador ou tablet e também pode ser executado offline por meio do **PictoBlox**.
+
 ---
 
 ## 🧱 Esquemático no Tinkercad  
