@@ -1,25 +1,19 @@
 # 🛠️ Proposta pedagógica com robótica educacional para o 18 de Maio – Dia Nacional de Combate ao Abuso e Exploração Sexual de Crianças e Adolescentes, fortalecendo a Campanha “Faça Bonito. Proteja nossas Crianças”.
 
-
- Proposta pedagógica com robótica educacional para trabalhar com crianças e adolescentes no dia 18 de Maio – Dia Nacional de Combate ao Abuso e Exploração Sexual de Crianças e Adolescentes, fortalecendo a Campanha “Faça Bonito. Proteja nossas Crianças”. 
-
  
 Este repositório contém os arquivos do **Semáforo de Toque** apresentado no artigo submetido ao CROS 2025. O objetivo é facilitar a replicação do projeto por professores e entusiastas da educação tecnológica.  
 
 📌 **Aqui você encontrará:**  
-✅ Código-fonte para o Arduino  
-✅ Diagramas do circuito e da montagem  
-✅ Guias passo a passo para instalação e uso  
+✅ Programação para o Arduino  
+✅ Esquemático no Tinkercad
+✅ Plano de aula para aplicação
+✅ Projeto no Tinkercad
 
 ---
 
 ## 📖 Sobre o Projeto
 
 O **Semáforo de Toque** foi desenvolvido para auxiliar professores na aplicação do projeto de forma prática e acessível. Ele inclui um conjunto de sensores, atuadores e um código simples que permite a experimentação direta com Arduino.
-
-🔹 **Artigo completo:** [Clique aqui para baixar](artigo/Artigo_CROS_2025.pdf)  
-🔹 **Guia de instalação:** [Acesse aqui](docs/Guia_Instalacao.pdf)  
-🔹 **Explicação do kit:** [Saiba mais](docs/Explicacao_Kit.pdf)  
 
 Ele foi desenvolvido com o Scratch, mas é possível baixá-lo no computador e utilizar o Pictoblox o qual é uma ferramenta a qual não é necessário o uso de internet
 ---
@@ -47,7 +41,14 @@ Para montar o circuito corretamente, siga o esquemático do Tinkercad:
 ![Esquema do Circuito](https://github.com/user-attachments/assets/8c26f8ab-469d-4e7f-a1f7-f11920b2cf13)
 
 📁 Arquivo editável no Tinkercad disponível [aqui]([diagramas/esquema_fritzing.fzz](https://www.tinkercad.com/things/8RZVnZijdXk-blocos-basico-projeto-final-ura-semaforo-do-toque/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=EfCjQ7wGkWV9qOgfhJBTSa1cPoLGCROROw2fKsu0JTg)).  
+
+
+https://scratch.mit.edu/projects/1155383469/ 
 Nele é possível acompanhar o código desenvolvido.
+
+Tela no Scratch
+![image2](https://github.com/user-attachments/assets/d82a013d-a6f0-4def-8ca1-2120c27d0dab)
+
 
 ---
 
