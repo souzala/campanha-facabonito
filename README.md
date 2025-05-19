@@ -54,6 +54,14 @@ Para montar o circuito corretamente, siga o esquemático disponível no Tinkerca
 
 ---
 
+## 📂 Slides 
+
+📄 **Baixe o Slide:**
+
+📥 [[PORTUGUÊS] Robótica Educacional e Questões Sociais Uma Proposta Pedagógica com Robótica Educacional para Conscientização da Campanha #Faça Bonito.pdf](https://github.com/user-attachments/files/20299977/PORTUGUES.Robotica.Educacional.e.Questoes.Sociais.Uma.Proposta.Pedagogica.com.Robotica.Educacional.para.Conscientizacao.da.Campanha.Faca.Bonito_compressed.pdf)
+
+---
+
 ## 📢 Contribuição  
 Sinta-se à vontade para contribuir com o projeto!  
 Se encontrar algum problema ou tiver sugestões, entre em contato através do 📧 email: larissa.souza.119@ufrn.edu.br
