@@ -4,6 +4,8 @@
 Este repositório contém os arquivos do **Semáforo de Toque**, apresentado no artigo submetido ao **CROS 2025**.  
 O objetivo é disponibilizar esse recurso para que professores e entusiastas da educação tecnológica possam **replicar e aplicar** o projeto em suas atividades pedagógicas.  
 
+https://ieeexplore-ieee-org.ez18.periodicos.capes.gov.br/document/11066139
+
 ---
 
 ## 📌 O que você encontrará aqui?  
