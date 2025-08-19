@@ -4,7 +4,13 @@
 Este repositório contém os arquivos do **Semáforo de Toque**, apresentado no artigo submetido ao **CROS 2025**.  
 O objetivo é disponibilizar esse recurso para que professores e entusiastas da educação tecnológica possam **replicar e aplicar** o projeto em suas atividades pedagógicas.  
 
-**Artigo submetido:** https://ieeexplore-ieee-org.ez18.periodicos.capes.gov.br/document/11066139
+---
+
+## 📑 Publicações
+
+📌 Este trabalho originou o artigo submetido para a **2025 Brazilian Conference on Robotics (CROS)**, apresentado em **Belo Horizonte - MG**:  
+
+🔗 [*Educational Robotics and Social Issues: A Pedagogical Proposal with Educational Robotics to Awareness of the #FaçaBonito Campaign*](https://ieeexplore-ieee-org.ez18.periodicos.capes.gov.br/document/11066139)
 
 ---
 
@@ -70,7 +76,9 @@ Se encontrar algum problema ou tiver sugestões, entre em contato através do �
 
 
 ## 👩‍💻 Desenvolvido por:
+
 **Larissa Souza** - Mestranda na área de Robótica Educacional pela UFRN 
+
 
 **Cláudia Juliette** - Doutoranda em Educaçãona na área de Robótica Educacional pela UFRN 
 
