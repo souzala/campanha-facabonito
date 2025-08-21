@@ -77,7 +77,7 @@ Se encontrar algum problema ou tiver sugestões, entre em contato através do �
 
 ## 👩‍💻 Desenvolvido por:
 
-**Larissa Souza** - Mestranda na área de Robótica Educacional pela UFRN 
+**Larissa Souza** - Graduanda em Engenharia da Computação e Mestranda na área de Robótica Educacional pela UFRN 
 
 
 **Cláudia Juliette** - Doutoranda em Educaçãona na área de Robótica Educacional pela UFRN 
